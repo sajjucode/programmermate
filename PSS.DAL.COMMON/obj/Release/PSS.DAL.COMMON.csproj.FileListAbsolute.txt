@@ -1,0 +1,15 @@
+E:\Web Projects\PSSPayrollSolutions\PSS.DAL.COMMON\bin\Release\PSS.DAL.COMMON.dll
+E:\Web Projects\PSSPayrollSolutions\PSS.DAL.COMMON\bin\Release\PSS.DAL.COMMON.pdb
+E:\Web Projects\PSSPayrollSolutions\PSS.DAL.COMMON\obj\Release\PSS.DAL.COMMON.csprojResolveAssemblyReference.cache
+E:\Web Projects\PSSPayrollSolutions\PSS.DAL.COMMON\obj\Release\PSS.DAL.COMMON.dll
+E:\Web Projects\PSSPayrollSolutions\PSS.DAL.COMMON\obj\Release\PSS.DAL.COMMON.pdb
+E:\Web Projects\Oman Solutions\Pss.ShippingPort\PSS.DAL.COMMON\bin\Release\PSS.DAL.COMMON.dll
+E:\Web Projects\Oman Solutions\Pss.ShippingPort\PSS.DAL.COMMON\bin\Release\PSS.DAL.COMMON.pdb
+E:\Web Projects\Oman Solutions\Pss.ShippingPort\PSS.DAL.COMMON\obj\Release\PSS.DAL.COMMON.csprojResolveAssemblyReference.cache
+E:\Web Projects\Oman Solutions\Pss.ShippingPort\PSS.DAL.COMMON\obj\Release\PSS.DAL.COMMON.dll
+E:\Web Projects\Oman Solutions\Pss.ShippingPort\PSS.DAL.COMMON\obj\Release\PSS.DAL.COMMON.pdb
+E:\Web Projects\Oman Solutions\PSS.RestaurantMenu\PSS.DAL.COMMON\bin\Release\PSS.DAL.COMMON.dll
+E:\Web Projects\Oman Solutions\PSS.RestaurantMenu\PSS.DAL.COMMON\bin\Release\PSS.DAL.COMMON.pdb
+E:\Web Projects\Oman Solutions\PSS.RestaurantMenu\PSS.DAL.COMMON\obj\Release\PSS.DAL.COMMON.csprojResolveAssemblyReference.cache
+E:\Web Projects\Oman Solutions\PSS.RestaurantMenu\PSS.DAL.COMMON\obj\Release\PSS.DAL.COMMON.dll
+E:\Web Projects\Oman Solutions\PSS.RestaurantMenu\PSS.DAL.COMMON\obj\Release\PSS.DAL.COMMON.pdb
