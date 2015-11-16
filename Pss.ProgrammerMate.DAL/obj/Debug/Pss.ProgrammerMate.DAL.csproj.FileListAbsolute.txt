@@ -1,7 +1,0 @@
-E:\Pss.ProgrammerMate\Pss.ProgrammerMate\Pss.ProgrammerMate.DAL\bin\Debug\Pss.ProgrammerMate.DAL.dll
-E:\Pss.ProgrammerMate\Pss.ProgrammerMate\Pss.ProgrammerMate.DAL\bin\Debug\Pss.ProgrammerMate.DAL.pdb
-E:\Pss.ProgrammerMate\Pss.ProgrammerMate\Pss.ProgrammerMate.DAL\bin\Debug\PSS.DAL.COMMON.dll
-E:\Pss.ProgrammerMate\Pss.ProgrammerMate\Pss.ProgrammerMate.DAL\bin\Debug\PSS.DAL.COMMON.pdb
-E:\Pss.ProgrammerMate\Pss.ProgrammerMate\Pss.ProgrammerMate.DAL\obj\Debug\Pss.ProgrammerMate.DAL.csprojResolveAssemblyReference.cache
-E:\Pss.ProgrammerMate\Pss.ProgrammerMate\Pss.ProgrammerMate.DAL\obj\Debug\Pss.ProgrammerMate.DAL.dll
-E:\Pss.ProgrammerMate\Pss.ProgrammerMate\Pss.ProgrammerMate.DAL\obj\Debug\Pss.ProgrammerMate.DAL.pdb
