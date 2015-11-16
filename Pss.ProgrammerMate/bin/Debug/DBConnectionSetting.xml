@@ -1,0 +1,9 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+	<DBConnectionSetting>
+		<ServerName>PSSDEVSERVER\PSSDEVSERVER</ServerName>
+		<DatabaseName>ProgrammerMate</DatabaseName>
+		<UserName>PakSoft</UserName>
+		<UserPassword>patanahi</UserPassword>
+	</DBConnectionSetting>
+</NewDataSet>

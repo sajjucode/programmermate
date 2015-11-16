@@ -1,0 +1,31 @@
+E:\Web Projects\PSSPayrollSolutions\PSS.DAL.COMMON\bin\Debug\PSS.DAL.COMMON.dll
+E:\Web Projects\PSSPayrollSolutions\PSS.DAL.COMMON\bin\Debug\PSS.DAL.COMMON.pdb
+E:\Web Projects\PSSPayrollSolutions\PSS.DAL.COMMON\obj\Debug\PSS.DAL.COMMON.csprojResolveAssemblyReference.cache
+E:\Web Projects\PSSPayrollSolutions\PSS.DAL.COMMON\obj\Debug\PSS.DAL.COMMON.dll
+E:\Web Projects\PSSPayrollSolutions\PSS.DAL.COMMON\obj\Debug\PSS.DAL.COMMON.pdb
+E:\Web Projects\Oman Solutions\Pss.ShippingPort\PSS.DAL.COMMON\bin\Debug\PSS.DAL.COMMON.dll
+E:\Web Projects\Oman Solutions\Pss.ShippingPort\PSS.DAL.COMMON\bin\Debug\PSS.DAL.COMMON.pdb
+E:\Web Projects\Oman Solutions\Pss.ShippingPort\PSS.DAL.COMMON\obj\Debug\PSS.DAL.COMMON.dll
+E:\Web Projects\Oman Solutions\Pss.ShippingPort\PSS.DAL.COMMON\obj\Debug\PSS.DAL.COMMON.pdb
+E:\Web Projects\Oman Solutions\PSS.RestaurantMenu\PSS.DAL.COMMON\bin\Debug\PSS.DAL.COMMON.dll
+E:\Web Projects\Oman Solutions\PSS.RestaurantMenu\PSS.DAL.COMMON\bin\Debug\PSS.DAL.COMMON.pdb
+E:\Web Projects\Oman Solutions\PSS.RestaurantMenu\PSS.DAL.COMMON\obj\Debug\PSS.DAL.COMMON.dll
+E:\Web Projects\Oman Solutions\PSS.RestaurantMenu\PSS.DAL.COMMON\obj\Debug\PSS.DAL.COMMON.pdb
+E:\Web Projects\Pss.Inventory.Solutions\PSS.DAL.COMMON\bin\Debug\PSS.DAL.COMMON.dll
+E:\Web Projects\Pss.Inventory.Solutions\PSS.DAL.COMMON\bin\Debug\PSS.DAL.COMMON.pdb
+E:\Web Projects\Pss.Inventory.Solutions\PSS.DAL.COMMON\obj\Debug\PSS.DAL.COMMON.dll
+E:\Web Projects\Pss.Inventory.Solutions\PSS.DAL.COMMON\obj\Debug\PSS.DAL.COMMON.pdb
+E:\Web Projects\PSS.VhlSalesNWorkshop\PSS.DAL.COMMON\bin\Debug\PSS.DAL.COMMON.dll
+E:\Web Projects\PSS.VhlSalesNWorkshop\PSS.DAL.COMMON\bin\Debug\PSS.DAL.COMMON.pdb
+E:\Web Projects\PSS.VhlSalesNWorkshop\PSS.DAL.COMMON\obj\Debug\PSS.DAL.COMMON.dll
+E:\Web Projects\PSS.VhlSalesNWorkshop\PSS.DAL.COMMON\obj\Debug\PSS.DAL.COMMON.pdb
+E:\Web Projects\PSS.VhlSalesNWorkshop\PSS.DAL.COMMON\obj\Debug\PSS.DAL.COMMON.csprojResolveAssemblyReference.cache
+E:\Web Projects\PSS.VisaRecruitment\PSS.DAL.COMMON\bin\Debug\PSS.DAL.COMMON.dll
+E:\Web Projects\PSS.VisaRecruitment\PSS.DAL.COMMON\bin\Debug\PSS.DAL.COMMON.pdb
+E:\Web Projects\PSS.VisaRecruitment\PSS.DAL.COMMON\obj\Debug\PSS.DAL.COMMON.csprojResolveAssemblyReference.cache
+E:\Web Projects\PSS.VisaRecruitment\PSS.DAL.COMMON\obj\Debug\PSS.DAL.COMMON.dll
+E:\Web Projects\PSS.VisaRecruitment\PSS.DAL.COMMON\obj\Debug\PSS.DAL.COMMON.pdb
+E:\Pss.ProgrammerMate\Pss.ProgrammerMate\PSS.DAL.COMMON\bin\Debug\PSS.DAL.COMMON.dll
+E:\Pss.ProgrammerMate\Pss.ProgrammerMate\PSS.DAL.COMMON\bin\Debug\PSS.DAL.COMMON.pdb
+E:\Pss.ProgrammerMate\Pss.ProgrammerMate\PSS.DAL.COMMON\obj\Debug\PSS.DAL.COMMON.dll
+E:\Pss.ProgrammerMate\Pss.ProgrammerMate\PSS.DAL.COMMON\obj\Debug\PSS.DAL.COMMON.pdb
